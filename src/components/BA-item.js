@@ -3,10 +3,10 @@ export default function ProductBAItem(props) {
     <div className="item">
       <img src={props.info["image_link"]} alt={props.info["name"]}></img>
       <button onClick={() => props.setStateOfParent(props.info["name"], props.info["unit_price"], 'add')}>
-        Add
+        Añadir
       </button>
       <button onClick={() => props.setStateOfParent(props.info["name"], props.info["unit_price"], 'remove')}>
-        Remove
+        Eliminar
       </button>
     </div>
   );
