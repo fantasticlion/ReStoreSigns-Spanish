@@ -3,7 +3,7 @@
 ### Link to Deployed Website
 https://fantasticlion.github.io/ReStoreSigns-Spanish/
 
-This is the Spanish version of the website: https://fantasticlion.github.io/ReStoreSigns/
+This is the Spanish version of the website: https://fantasticlion.github.io/ReStoreSigns/.
 
 ### Goal and Value of the Application
 The goal of this application is to provide users with an organized and user-friendly interface to browse and filter through various products available at Green Country ReStores. The application aims to enhance the shopping experience by allowing users to easily find and manage their favorite items, view product details, and sort/filter products based on different criteria.
