@@ -6,7 +6,7 @@
     "unit_price": 1.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Burlington%20Walnut.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Burlington%20Walnut%20Spanish.png",
     "id": 1
   },
   {
@@ -16,7 +16,7 @@
     "unit_price": 0.99,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Grey%20Matte%20Swirl.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Grey%20Matte%20Swirl%20Spanish.png",
     "id": 2
   },
   {
@@ -26,7 +26,7 @@
     "unit_price": 0.99,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Light%20Grey%20(New).png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Light%20Grey%20(New)%20Spanish.png",
     "id": 3
   },
   {
@@ -36,7 +36,7 @@
     "unit_price": 1.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Venato%20White%20(New).png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Venato%20White%20(New)%20Spanish.png",
     "id": 4
   },
   {
@@ -46,7 +46,7 @@
     "unit_price": 1.19,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Timber%20Grey.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Timber%20Grey%20Spanish.png",
     "id": 5
   },
   {
@@ -56,7 +56,7 @@
     "unit_price": 0.79,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Solid%20White%20Matet%20Tile.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Solid%20White%20Matet%20Tile%20Spanish.png",
     "id": 6
   },
   {
@@ -66,7 +66,7 @@
     "unit_price": 1.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Wind%20River%20Beige.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Wind%20River%20Beige%20Spanish.png",
     "id": 7
   },
   {
@@ -76,7 +76,7 @@
     "unit_price": 1.19,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/White%20Matte.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/White%20Matte%20Spanish.png",
     "id": 8
   },
   {
@@ -86,7 +86,7 @@
     "unit_price": 1.19,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Cayman%20Red.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Cayman%20Red%20Spanish.png",
     "id": 9
   },
   {
@@ -96,7 +96,7 @@
     "unit_price": 1.19,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Painted%20Wood.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Painted%20Wood%20Spanish.png",
     "id": 10
   },
   {
@@ -106,7 +106,7 @@
     "unit_price": 1.19,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Mica.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Mica%20Spanish.png",
     "id": 11
   },
   {
@@ -116,7 +116,7 @@
     "unit_price": 2.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Sabine%20SPC.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Sabine%20SPC%20Spanish.png",
     "id": 12
   },
   {
@@ -126,7 +126,7 @@
     "unit_price": 2.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Rochester%20SPC%20Flooring.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Rochester%20SPC%20Flooring%20Spanish.png",
     "id": 13
   },
   {
@@ -136,7 +136,7 @@
     "unit_price": 2.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Sandalwood%20SPC%20Flooring.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Sandalwood%20SPC%20Flooring%20Spanish.png",
     "id": 14
   },
   {
@@ -146,7 +146,7 @@
     "unit_price": 2.29,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Edinburgh%20SPC%20Flooring.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Edinburgh%20SPC%20Flooring%20Spanish.png",
     "id": 15
   },
   {
@@ -156,7 +156,7 @@
     "unit_price": 21.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Paint-One%20Gallon.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Paint%20Spanish-One%20Gallon.png",
     "id": 16
   },
   {
@@ -166,7 +166,7 @@
     "unit_price": 95.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Paint-Five%20Gallon.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Paint%20Spanish-Five%20Gallon.png",
     "id": 17
   },
   {
@@ -176,7 +176,7 @@
     "unit_price": 3.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Spray%20Paint.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Spray%20Paint%20Spanish.png",
     "id": 18
   },
   {
@@ -186,7 +186,7 @@
     "unit_price": 9.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Paint%20Stick.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Paint%20Stick%20Spanish.png",
     "id": 19
   },
   {
@@ -196,7 +196,7 @@
     "unit_price": 3.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Carpet%20Tiles.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Carpet%20Tiles%20Spanish.png",
     "id": 20
   },
   {
@@ -206,7 +206,7 @@
     "unit_price": 169.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Rugs-8x10.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Rugs%20Spanish-8x10.png",
     "id": 21
   },
   {
@@ -216,7 +216,7 @@
     "unit_price": 59.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Rugs-6x9.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Rugs%20Spanish-6x9.png",
     "id": 22
   },
   {
@@ -226,7 +226,7 @@
     "unit_price": 99.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Rugs-5x8.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Rugs%20Spanish-5x8.png",
     "id": 23
   },
   {
@@ -236,7 +236,7 @@
     "unit_price": 24.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Surya%20Runners-2x3.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Surya%20Runners%20Spanish-2x3.png",
     "id": 24
   },
   {
@@ -246,7 +246,7 @@
     "unit_price": 39.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Surya%20Runners-8%20ft.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Surya%20Runners%20Spanish-8%20ft.png",
     "id": 25
   },
   {
@@ -256,7 +256,7 @@
     "unit_price": 49.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Surya%20Runners-10%20ft.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Surya%20Runners%20Spanish-10%20ft.png",
     "id": 26
   },
   {
@@ -266,7 +266,7 @@
     "unit_price": 69.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Surya%20Runners-12%20ft.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Surya%20Runners%20Spanish-12%20ft.png",
     "id": 27
   },
   {
@@ -276,7 +276,7 @@
     "unit_price": 8.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Superior%20Quality%20Rugs-24x36.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Superior%20Quality%20Rugs%20Spanish-24x36.png",
     "id": 28
   },
   {
@@ -286,7 +286,7 @@
     "unit_price": 19.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Superior%20Quality%20Rugs-24x72.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Superior%20Quality%20Rugs%20Spanish-24x72.png",
     "id": 29
   },
   {
@@ -296,7 +296,7 @@
     "unit_price": 15.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Heavy%20Duty%20Utility%20Mat.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Heavy%20Duty%20Utility%20Mat%20Spanish.png",
     "id": 30
   },
   {
@@ -306,7 +306,7 @@
     "unit_price": 12.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Welcome%20Mats.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Welcome%20Mats%20Spanish.png",
     "id": 31
   },
   {
@@ -316,7 +316,7 @@
     "unit_price": 199,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Electric%20Coil%20Range.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Electric%20Coil%20Range%20Spanish.png",
     "id": 32
   },
   {
@@ -326,7 +326,7 @@
     "unit_price": 599,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Electric%20Ceramic%20Top%20Slide-in%20Range.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Electric%20Ceramic%20Top%20Slide-in%20Range%20Spanish.png",
     "id": 33
   },
   {
@@ -336,7 +336,7 @@
     "unit_price": 549,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Gas%20Slide-in%20Range.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Gas%20Slide-in%20Range%20Spanish.png",
     "id": 34
   },
   {
@@ -346,7 +346,7 @@
     "unit_price": 0,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Shelving%20boards.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Shelving%20boards%20Spanish.png",
     "id": 35
   },
   {
@@ -356,7 +356,7 @@
     "unit_price": 1,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Standard%20Size%20Cabinet%20Doors_Drawers-Sale.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Standard%20Size%20Cabinet%20Doors_Drawers%20Spanish-Sale.png",
     "id": 36
   },
   {
@@ -366,7 +366,7 @@
     "unit_price": 3,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Standard%20Size%20Cabinet%20Doors_Drawers-Single.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Standard%20Size%20Cabinet%20Doors_Drawers%20Spanish-Single.png",
     "id": 37
   },
   {
@@ -376,7 +376,7 @@
     "unit_price": 5,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Standard%20Size%20Cabinet%20Doors_Drawers-Double.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Standard%20Size%20Cabinet%20Doors_Drawers%20Spanish-Double.png",
     "id": 38
   },
   {
@@ -386,7 +386,7 @@
     "unit_price": 129.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Mattresses.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Mattresses%20Spanish.png",
     "id": 39
   },
   {
@@ -396,7 +396,7 @@
     "unit_price": 1,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Globes-Small.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Globes%20Spanish-Small.png",
     "id": 40
   },
   {
@@ -406,7 +406,7 @@
     "unit_price": 3,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Globes-Large.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Globes%20Spanish-Large.png",
     "id": 41
   },
   {
@@ -416,7 +416,7 @@
     "unit_price": 2.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Nitrile%20Gloves.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Nitrile%20Gloves%20Spanish.png",
     "id": 42
   },
   {
@@ -426,7 +426,7 @@
     "unit_price": 1.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/9_%20Roller%20Covers.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/9_%20Roller%20Covers%20Spanish.png",
     "id": 43
   },
   {
@@ -436,7 +436,7 @@
     "unit_price": 4.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Tarps-6x8.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Tarps%20Spanish-6x8.png",
     "id": 44
   },
   {
@@ -446,7 +446,7 @@
     "unit_price": 5.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Tarps-8x10.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Tarps%20Spanish-8x10.png",
     "id": 45
   },
   {
@@ -456,7 +456,7 @@
     "unit_price": 12.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Tarps-12x16.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Tarps%20Spanish-12x16.png",
     "id": 46
   },
   {
@@ -466,7 +466,7 @@
     "unit_price": 5,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Fan%20Blade%20Set.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Fan%20Blade%20Set%20Spanish.png",
     "id": 47
   },
   {
@@ -476,7 +476,7 @@
     "unit_price": 1,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Cardboards.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Cardboards%20Spanish.png",
     "id": 48
   },
   {
@@ -486,7 +486,7 @@
     "unit_price": 1,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Standard%20Door%20Knobs.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Standard%20Door%20Knobs%20Spanish.png",
     "id": 49
   },
   {
@@ -496,7 +496,7 @@
     "unit_price": 5,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Large%20Door%20Handles.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Large%20Door%20Handles%20Spanish.png",
     "id": 50
   },
   {
@@ -506,7 +506,7 @@
     "unit_price": 1.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Assorted%20Tapes-Duct.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Assorted%20Tapes%20Spanish-Duct.png",
     "id": 51
   },
   {
@@ -516,7 +516,7 @@
     "unit_price": 2.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Assorted%20Tapes-Clear.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Assorted%20Tapes%20Spanish-Clear.png",
     "id": 52
   },
   {
@@ -526,7 +526,7 @@
     "unit_price": 6.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Assorted%20Tapes-Painters.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Assorted%20Tapes%20Spanish-Painters.png",
     "id": 53
   },
   {
@@ -536,7 +536,7 @@
     "unit_price": 3.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/7-foot%20Trim.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/7-foot%20Trim%20Spanish.png",
     "id": 54
   },
   {
@@ -546,7 +546,7 @@
     "unit_price": 0.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Chip%20Brush-half.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Chip%20Brush%20Spanish-half.png",
     "id": 55
   },
   {
@@ -556,7 +556,7 @@
     "unit_price": 1.25,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Chip%20Brush-1.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Chip%20Brush%20Spanish-1.png",
     "id": 56
   },
   {
@@ -566,7 +566,7 @@
     "unit_price": 1.5,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Chip%20Brush-2.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Chip%20Brush%20Spanish-2.png",
     "id": 57
   },
   {
@@ -576,7 +576,7 @@
     "unit_price": 1.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Chip%20Brush-3.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Chip%20Brush%20Spanish-3.png",
     "id": 58
   },
   {
@@ -586,7 +586,7 @@
     "unit_price": 1.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Chip%20Brush-4.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Chip%20Brush%20Spanish-4.png",
     "id": 59
   },
   {
@@ -596,7 +596,7 @@
     "unit_price": 1.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Drop%20Cloth.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Drop%20Cloth%20Spanish.png",
     "id": 60
   },
   {
@@ -606,7 +606,7 @@
     "unit_price": 4.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/24_%20Roof%20Brush%20with%20Squeegee.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/24_%20Roof%20Brush%20with%20Squeegee%20Spanish.png",
     "id": 61
   },
   {
@@ -616,7 +616,7 @@
     "unit_price": 4.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-Tape.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-Tape.png",
     "id": 62
   },
   {
@@ -626,7 +626,7 @@
     "unit_price": 1.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-Earbuds.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-Earbuds.png",
     "id": 63
   },
   {
@@ -636,7 +636,7 @@
     "unit_price": 2.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-AAA.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-AAA.png",
     "id": 64
   },
   {
@@ -646,7 +646,7 @@
     "unit_price": 2.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-AA.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-AA.png",
     "id": 65
   },
   {
@@ -656,7 +656,7 @@
     "unit_price": 3.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-C.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-C.png",
     "id": 66
   },
   {
@@ -666,7 +666,7 @@
     "unit_price": 3.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-D.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-D.png",
     "id": 67
   },
   {
@@ -676,7 +676,7 @@
     "unit_price": 3.95,
     "note": "None.",
     "processor": "ReStore-Tulsa",
-    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns/main/src/signs/Checkout%20Desk%20Items-9%20Volt.png",
+    "image_link": "https://raw.githubusercontent.com/fantasticlion/ReStoreSigns-Spanish/main/src/signs/Checkout%20Desk%20Items%20Spanish-9%20Volt.png",
     "id": 68
   }
 ]
