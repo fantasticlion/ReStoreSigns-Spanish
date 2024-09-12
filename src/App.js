@@ -250,6 +250,11 @@ function App() {
         </button>
       )}
       <h1>Artículos Permanentes en Green Country ReStores</h1>
+        
+      <a className="change-lang" href="https://fantasticlion.github.io/ReStoreSigns/">
+        English Version
+      </a>
+        
       <div className="inline-container">
         <h2>ReStore-Tulsa</h2>
         <button onClick={toggleProductVisibility} className="show-button">-</button>
