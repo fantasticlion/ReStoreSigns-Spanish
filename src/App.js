@@ -249,7 +249,7 @@ function App() {
           {showNav ? 'Ocultar Filtros' : 'Mostrar Filtros'}
         </button>
       )}
-      <h1>Permanent Items at Green Country ReStores</h1>
+      <h1>Artículos Permanentes en Green Country ReStores</h1>
       <div className="inline-container">
         <h2>ReStore-Tulsa</h2>
         <button onClick={toggleProductVisibility} className="show-button">-</button>
