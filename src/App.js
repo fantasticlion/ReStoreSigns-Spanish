@@ -278,38 +278,38 @@ function App() {
         <div className="favorites">
           <form>
             <div className="sorting">
-              <h3>Sort By:</h3>
+              <h3>Ordenar Por:</h3>
               <input className="jss4" type="radio" value="productType" defaultChecked name="sort" onClick={() => setSort("productType")}></input>
-              <label> Product Type </label><br/>
+              <label> Tipo de Producto </label><br/>
               <input className="jss4" type="radio" value="ascending" name="sort" onClick={() => setSort("ascending")}></input>
-              <label> Price: Low to High </label><br/>
+              <label> Precio: de Menor a Mayor </label><br/>
               <input className="jss4" type="radio" value="descending" name="sort" onClick={() => setSort("descending")}></input>
-              <label> Price: High to Low </label><br/>
+              <label> Precio: de Mayor a Menor </label><br/>
             </div>
 
             <div className="filtering">
               <h3>Product Type:</h3>
               <input type="checkbox" value="Tile Flooring" onClick={() => updateFilter("Tile Flooring", "product_type")}/>
-              <label> Tile Flooring </label><br/>
+              <label> Suelo de Baldosa </label><br/>
               <input type="checkbox" value="Luxury Vinyl" onClick={() => updateFilter("Luxury Vinyl", "product_type")}/> 
-              <label> Vinyl </label><br/>
+              <label> Vinilo </label><br/>
               <input type="checkbox" value="Paint" onClick={() => updateFilter("Paint", "product_type")}/> 
-              <label> Paint </label><br/>
+              <label> Pintura </label><br/>
               <input type="checkbox" value="Carpet" onClick={() => updateFilter("Carpet", "product_type")}/> 
-              <label> Carpet </label><br/>
+              <label> Alfombra </label><br/>
               <input type="checkbox" value="Electric" onClick={() => updateFilter("Electric", "product_type")}/> 
-              <label> Electric </label><br/>
+              <label> Eléctrico </label><br/>
               <input type="checkbox" value="Furniture" onClick={() => updateFilter("Furniture", "product_type")}/> 
-              <label> Furniture </label><br/>
+              <label> Muebles </label><br/>
               <input type="checkbox" value="Other" onClick={() => updateFilter("Other", "product_type")}/> 
-              <label> Other </label><br/>
+              <label> Otro </label><br/>
             </div>
           
             <div>
-              <h3>Total Price:</h3>
+              <h3>Precio Total:</h3>
               <total-price>${total}</total-price>
             </div>
-            <button onClick={() => resetPage()}>{"Reset"}</button>
+            <button onClick={() => resetPage()}>{"Reiniciar"}</button>
           </form>
         </div>
       )}
