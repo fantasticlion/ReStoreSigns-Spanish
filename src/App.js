@@ -282,9 +282,9 @@ function App() {
               <input className="jss4" type="radio" value="productType" defaultChecked name="sort" onClick={() => setSort("productType")}></input>
               <label> Tipo de Producto </label><br/>
               <input className="jss4" type="radio" value="ascending" name="sort" onClick={() => setSort("ascending")}></input>
-              <label> Precio:<br/>     de Menor a Mayor </label><br/>
+              <label> Precio:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de Menor a Mayor </label><br/>
               <input className="jss4" type="radio" value="descending" name="sort" onClick={() => setSort("descending")}></input>
-              <label> Precio:<br/>     de Mayor a Menor </label><br/>
+              <label> Precio:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de Mayor a Menor </label><br/>
             </div>
 
             <div className="filtering">
