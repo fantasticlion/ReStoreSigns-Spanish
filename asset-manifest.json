@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReStoreSigns-Spanish/static/css/main.07bf2942.css",
-    "main.js": "/ReStoreSigns-Spanish/static/js/main.07915173.js",
+    "main.js": "/ReStoreSigns-Spanish/static/js/main.bc9b92ab.js",
     "index.html": "/ReStoreSigns-Spanish/index.html",
     "main.07bf2942.css.map": "/ReStoreSigns-Spanish/static/css/main.07bf2942.css.map",
-    "main.07915173.js.map": "/ReStoreSigns-Spanish/static/js/main.07915173.js.map"
+    "main.bc9b92ab.js.map": "/ReStoreSigns-Spanish/static/js/main.bc9b92ab.js.map"
   },
   "entrypoints": [
     "static/css/main.07bf2942.css",
-    "static/js/main.07915173.js"
+    "static/js/main.bc9b92ab.js"
   ]
 }
