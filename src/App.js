@@ -246,7 +246,7 @@ function App() {
       {/* Conditionally render the toggle button */}
       {!menuActive && (
         <button onClick={handleToggleFilters} className="toggle-button">
-          {showNav ? 'Ocultar Filtros' : 'Mostrar Filtros'}
+          {showNav ? 'Ocultar' : 'Mostrar Filtros'}
         </button>
       )}
       <h1>Artículos Permanentes en Green Country ReStores</h1>
